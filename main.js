@@ -152,6 +152,13 @@ const insertChild = (mode, modeType) => {
                   </div>
                 </div>
             `;
+
+            // showWave
+            if (result === 'you win') {
+               showWave(youPick);
+            } else if (result === 'you lose') {
+               showWave(theHousePick);
+            }
          }, 1000);
 
          const result = calcResult(pickedName, randomName);
@@ -189,13 +196,6 @@ const insertChild = (mode, modeType) => {
 
             document.querySelector('.score-board_count').innerHTML = score;
          }, 1500);
-
-         // showWave
-         if (result === 'you win') {
-            showWave(youPick);
-         } else if (result === 'you lose') {
-            showWave(theHousePick);
-         }
 
          // play again
          const playAgainBtns = document.querySelectorAll('.play-again');

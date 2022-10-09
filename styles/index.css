@@ -21,6 +21,7 @@ body {
    background-image: linear-gradient(var(--mainBg));
    color: var(--white);
    height: 100vh;
+   overflow: hidden;
 }
 
 .main-container {

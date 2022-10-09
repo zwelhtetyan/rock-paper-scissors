@@ -1,6 +1,6 @@
 header .banner {
    width: 90%;
-   height: 9rem;
+   height: 8rem;
    border: 2px solid var(--headerOutline);
    border-radius: var(--radius);
    margin: auto;

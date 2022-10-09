@@ -139,6 +139,10 @@
       margin-top: 2rem;
    }
 
+   footer {
+      margin-top: 1rem;
+   }
+
    footer .rule-btn-container {
       display: flex;
       justify-content: center;

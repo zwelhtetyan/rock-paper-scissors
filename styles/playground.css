@@ -3,7 +3,7 @@
    align-items: center;
    justify-content: center;
    margin-top: 2rem;
-   height: calc(100vh - 290px);
+   height: calc(100vh - 300px);
 }
 
 .playground-outer {

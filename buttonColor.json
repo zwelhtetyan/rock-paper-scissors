@@ -1,0 +1,27 @@
+[
+   {
+      "name": "rock",
+      "bg": "hsl(349, 71%, 52%), hsl(349, 70%, 56%)",
+      "boxShadowColor": "rgb(179 16 46)"
+   },
+   {
+      "name": "paper",
+      "bg": "hsl(230, 89%, 62%), hsl(230, 89%, 65%)",
+      "boxShadowColor": "rgb(31 58 191)"
+   },
+   {
+      "name": "scissors",
+      "bg": "hsl(39, 89%, 49%), hsl(40, 84%, 53%)",
+      "boxShadowColor": "rgb(209 141 17)"
+   },
+   {
+      "name": "lizard",
+      "bg": "hsl(261, 73%, 60%), hsl(261, 72%, 63%)",
+      "boxShadowColor": "rgb(83 42 161)"
+   },
+   {
+      "name": "spock",
+      "bg": "hsl(189, 59%, 53%), hsl(189, 58%, 57%)",
+      "boxShadowColor": "rgb(56 138 153)"
+   }
+]

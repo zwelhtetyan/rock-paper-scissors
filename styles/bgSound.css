@@ -1,0 +1,14 @@
+.bg-sound-container {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   margin-top: 1rem;
+}
+
+.toggle-bg-sound {
+   padding: 0.5rem;
+   border-radius: 5px;
+   border: none;
+   text-transform: capitalize;
+   cursor: pointer;
+}

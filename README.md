@@ -6,14 +6,14 @@
 
 ## Features: 
 
-- Play against the computer
-- Play / Pause background sound
-- show Score
-- change mode 
-- view rules
+- [x] Play against the computer
+- [x] Play / Pause background sound
+- [x] show Score
+- [x] change mode 
+- [x] view rules
 
 ## Tech Stacks:
 
-- html
-- css
-- javascript
+- [x] html
+- [x] css
+- [x] javascript
